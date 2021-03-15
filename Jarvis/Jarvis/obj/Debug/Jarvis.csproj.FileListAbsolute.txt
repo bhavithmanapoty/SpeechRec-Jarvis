@@ -1,0 +1,10 @@
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\obj\Debug\Jarvis.csprojAssemblyReference.cache
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\obj\Debug\Jarvis.Form1.resources
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\obj\Debug\Jarvis.Properties.Resources.resources
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.GenerateResource.cache
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\obj\Debug\Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+C:\Users\Bhavith\Desktop\Projects\JARVIS\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
